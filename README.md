@@ -47,7 +47,7 @@
 
 1. 이 저장소를 클론합니다:
 ```bash
-git clone [저장소 URL]
+git clone https://github.com/flixzf/claude-skills-architecture.git
 ```
 
 2. `.claude/skills` 폴더에 복사합니다:
