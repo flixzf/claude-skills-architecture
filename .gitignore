@@ -1,0 +1,39 @@
+# Word 임시 파일
+~$*.doc*
+~$*.dot*
+
+# PowerPoint 임시 파일
+~$*.ppt*
+
+# Excel 임시 파일
+~$*.xls*
+
+# Windows 시스템 파일
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 임시 파일
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# 로그 파일
+*.log
+
+# 압축 파일 (필요시 추가)
+# *.zip
+# *.rar
+# *.7z
+
+# 개인 설정 파일 (필요시 추가)
+# .vscode/
+# .idea/
